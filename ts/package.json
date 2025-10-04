@@ -1,0 +1,20 @@
+{
+  "name": "@nodots/fwe-client",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "fwe": "./bin/fwe"
+  },
+  "scripts": {
+    "dev": "tsx src/cli.ts",
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}

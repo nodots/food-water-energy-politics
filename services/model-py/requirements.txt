@@ -1,0 +1,8 @@
+fastapi==0.115.4
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+numpy==2.1.2
+pandas==2.2.3
+pyomo==6.8.0
+networkx==3.4.1
+simpy==4.1.1
