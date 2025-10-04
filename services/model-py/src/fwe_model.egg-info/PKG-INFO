@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: fwe-model
+Version: 0.1.0
+Summary: Posture-aware Food-Water-Energy model
+Requires-Python: >=3.10
